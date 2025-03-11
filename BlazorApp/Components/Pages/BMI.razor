@@ -1,0 +1,62 @@
+ @page "/BMI"
+@rendermode InteractiveServer
+
+<PageTitle>BMI</PageTitle>
+
+<div class="container">
+    <h1>BMI Calculator wahoo</h1>
+<div>
+    <p>Input weight below</p>
+    <input id="weightInput" class="styleClass" @onchange="OnChangeWeight">
+</div>
+
+<div>
+    <p>Input height in feet below</p>
+    <input id="heightFInput" class="styleClass" @onchange="OnChangeHeightF">
+</div>
+<div>
+    <p>Input height in inches below</p>
+    <input id="heightIInput" class="styleClass" @onchange="OnChangeHeightI">
+</div>
+
+<div>
+    <p>BMI: @calculateBMI()</p>
+</div>
+</div>
+
+@code{
+    float weight = 0;
+    float heightF = 0;
+    float heightI = 0;
+
+    public float calculateBMI(){
+        if(weight > 0 && heightF > 0){      
+            return weight / ((heightF * 12 + heightI) * (heightF * 12 + heightI)) *703;
+        }  
+        else{
+            return 0;
+        }
+        }
+    
+    private void OnChangeWeight(ChangeEventArgs args)
+    {
+        if (float.TryParse(args.Value?.ToString(), out float parsedWeight))
+        {
+            weight = parsedWeight;
+        }
+    }
+    private void OnChangeHeightF(ChangeEventArgs args)
+    {
+        if (float.TryParse(args.Value?.ToString(), out float parsedHeightF))
+        {
+            heightF = parsedHeightF;
+        }
+    }
+    private void OnChangeHeightI(ChangeEventArgs args)
+    {
+        if (float.TryParse(args.Value?.ToString(), out float parsedHeightI))
+        {
+            heightI = parsedHeightI;
+        }
+    }
+}

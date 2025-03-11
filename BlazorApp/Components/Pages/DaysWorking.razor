@@ -1,0 +1,32 @@
+@page "/DaysWorking"
+@rendermode InteractiveServer
+
+<h3>Days working this week(Remaining Days: @daysList.Count(t => !t.IsDone))</h3>
+
+<ul>
+    @foreach (var day in daysList){
+        <li>
+            <input type=checkbox @bind="day.IsDone">
+            <input @bind="day.dayOfWeek">
+        </li>
+    }
+</ul>
+
+<input @bind="newDay">
+<button @onclick="AddDay">Add todo</button>
+@code{
+    List<WorkDays> daysList = new List<WorkDays>();
+    string newDay ="";
+    public class WorkDays{
+        public string dayOfWeek {get; set;}
+        public bool IsDone {get; set;}
+
+    }
+    private void AddDay(MouseEventArgs args)
+    {
+        if (!string.IsNullOrWhiteSpace(newDay)){
+            daysList.Add(new WorkDays {dayOfWeek = newDay});
+            newDay = "";
+        }
+    }
+}

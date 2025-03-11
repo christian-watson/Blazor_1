@@ -1,0 +1,147 @@
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.exe
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.deps.json
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.runtimeconfig.json
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.dll
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.pdb
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfo.cs
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.dll
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
+C:\Users\cw1043684\Desktop\c# visual stuido config\Blazor_1\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.exe
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.deps.json
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.runtimeconfig.json
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.dll
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.pdb
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfo.cs
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.dll
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
+C:\Users\chisc\Downloads\Blazor_1\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\bin\Debug\net8.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\bin\Debug\net8.0\BlazorApp.exe
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\bin\Debug\net8.0\BlazorApp.deps.json
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\bin\Debug\net8.0\BlazorApp.runtimeconfig.json
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\bin\Debug\net8.0\BlazorApp.dll
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\bin\Debug\net8.0\BlazorApp.pdb
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfo.cs
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\BlazorApp.sourcelink.json
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\BlazorApp.dll
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
+C:\Users\chisc\Downloads\blazor-file-upload\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.exe
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.deps.json
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.runtimeconfig.json
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.dll
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.pdb
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfo.cs
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.sourcelink.json
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.dll
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
+C:\Users\chisc\Downloads\blazor-file-upload\Blazor_1\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.exe
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.deps.json
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.runtimeconfig.json
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.dll
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\bin\Debug\net8.0\BlazorApp.pdb
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.AssemblyInfo.cs
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.dll
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
+C:\Users\chisc\OneDrive\Desktop\Blazor_1\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll

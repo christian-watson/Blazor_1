@@ -1,0 +1,117 @@
+﻿@page "/{numberCount:int?}"
+@rendermode InteractiveServer
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+
+<Counter IncrementAmount="randomInt()" />
+
+<button class="btn btn-primary" @onclick="() => { isActive = true; todayDate = DateTime.Now.ToString(); }">What's today?</button>
+<button class="btn btn-secondary" @onclick="generateAlph">Alphabet</button>
+
+
+<Weather />
+@if(isActive){
+    <p>@todayDate</p>
+} else{
+    <p>Who cares?</p>
+}
+
+@if(alphabetSubset != null && alphabetSubset.Any() && alphIsActive == false){
+    <ol>
+        @foreach(var letter in alphabetSubset){
+            <li>@letter</li>
+        }
+    </ol>
+    alphIsActive = true;
+} else if(alphabetSubset != null && alphabetSubset.Any() && alphIsActive == true){
+    alphIsActive = false;
+}
+
+<div>
+    <input @onchange="OnChange">
+    <p>@uesrName</p>
+</div>
+
+<div>
+    <input @oninput="OnInput">
+    <p>@userAddress</p>
+</div>
+
+<div style="background-color:@bgColor" @onmouseover="MouseOver" @onmouseout="MouseOut">Change color</div>
+
+<h3>Random number table</h3>
+@if(randomNums != null && randomNums.Any()){
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Random Number</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var number in randomNums){
+                <tr>
+                    <td>@number</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    string[] colors = ["red", "blue", "green", "yellow", "purple"];
+    string bgColor = "pink";
+    string[] strings = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
+    string uesrName = "";
+    string userAddress = "";
+    bool alphIsActive = false;
+    Random rnd = new Random();
+    string[] alphabetSubset;
+    public int randomInt(){
+        int amount = rnd.Next(1,10);
+        return amount;
+    }
+    bool isActive = false;
+    string todayDate = "";
+    int[] randomNums;
+    [Parameter]
+    public int NumberCount {get; set;}
+
+    public void OnClick(){
+        isActive = true;
+        todayDate = DateTime.Now.ToString("M/d/yyyy");
+    }
+    public void generateAlph(){
+        int alphMax = rnd.Next(1,27);
+        alphabetSubset = strings.Take(alphMax).ToArray();
+    }
+
+    protected override void OnInitialized()
+    {
+        NumberCount = rnd.Next(1, 11);
+
+        randomNums = new int[NumberCount];
+        for (int i = 0; i < NumberCount; i++)
+        {
+            randomNums[i] = rnd.Next(1, 51);
+        }
+    }
+    private void OnChange(ChangeEventArgs args)
+    {
+        uesrName = (string)args.Value!;
+    }
+    private void OnInput(ChangeEventArgs args)
+    {
+        userAddress = (string)args.Value!;
+    }
+    private void MouseOver(MouseEventArgs args)
+    {
+        bgColor = "pink";
+    }
+    private void MouseOut(MouseEventArgs args)
+    {
+        int randomNumber = rnd.Next(0,4);
+        bgColor = colors[randomNumber];
+    }
+}

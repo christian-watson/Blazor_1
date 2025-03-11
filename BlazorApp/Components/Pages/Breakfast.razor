@@ -1,0 +1,57 @@
+@page "/Breakfast"
+@rendermode InteractiveServer
+@attribute [StreamRendering]
+
+<PageTitle>Breakfast</PageTitle>
+
+<button class="btn btn-primary" @onclick="PourCoffee">Pour coffee</button>
+@if(coffeeStatus != ""){
+    <p>@coffeeStatus at: @DateTime.Now.ToString("hh:mm:ss")</p>
+}
+<p></p>
+
+<button class="btn btn-primary" @onclick="FryEggs">Fry eggs</button>
+<p>Egg status: @eggStatus</p>
+
+<p></p>
+<button class="btn btn-primary" @onclick="FryEggsAsync">Fry eggs Async</button>
+<p>@asyncEggStatus</p>
+
+
+
+
+@code{
+    string coffeeStatus ="";
+    string eggStatus = "";
+    string asyncEggStatus = "";
+    internal class Bacon { }
+    internal class Coffee { }
+    internal class Egg { }
+    internal class Juice { }
+    internal class Toast { }
+
+    private void PourCoffee(){
+        coffeeStatus = "Coffee is ready";
+    }
+    private void FryEggs()
+    {
+        eggStatus = "cooking the eggs ...";
+        Task.Delay(3000).Wait();
+        eggStatus = "cooking the eggs ...";
+        Task.Delay(3000).Wait();
+        eggStatus = "Put eggs on plate";
+
+    }
+    private async Task<Egg> FryEggsAsync()
+        {
+            asyncEggStatus = "Warming the egg pan...";
+            await Task.Delay(3000);
+            asyncEggStatus = "cracking 3 eggs";
+            asyncEggStatus = "cooking the eggs ...";
+            await Task.Delay(3000);
+            asyncEggStatus = "Put eggs on plate";
+
+            return new Egg();
+        }
+
+}
